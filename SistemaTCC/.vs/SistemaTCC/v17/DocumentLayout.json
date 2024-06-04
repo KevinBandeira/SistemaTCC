@@ -3,28 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\Pichau\\Downloads\\Sistema\\Sistema_Tcc\\SistemaTCC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8A844156-8744-48B4-BE7D-4FAE2B50E84D}|SistemaTCC\\SistemaTCC.csproj|c:\\users\\pichau\\downloads\\sistema\\sistema_tcc\\sistematcc\\sistematcc\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8A844156-8744-48B4-BE7D-4FAE2B50E84D}|SistemaTCC\\SistemaTCC.csproj|solutionrelative:sistematcc\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A844156-8744-48B4-BE7D-4FAE2B50E84D}|SistemaTCC\\SistemaTCC.csproj|C:\\Users\\Pichau\\Downloads\\Sistema\\Sistema_Tcc\\SistemaTCC\\sistematcc\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8A844156-8744-48B4-BE7D-4FAE2B50E84D}|SistemaTCC\\SistemaTCC.csproj|solutionrelative:sistematcc\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8A844156-8744-48B4-BE7D-4FAE2B50E84D}|SistemaTCC\\SistemaTCC.csproj|C:\\Users\\Pichau\\Downloads\\Sistema\\Sistema_Tcc\\SistemaTCC\\sistematcc\\cadastraclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8A844156-8744-48B4-BE7D-4FAE2B50E84D}|SistemaTCC\\SistemaTCC.csproj|solutionrelative:sistematcc\\cadastraclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{8A844156-8744-48B4-BE7D-4FAE2B50E84D}|SistemaTCC\\SistemaTCC.csproj|c:\\users\\pichau\\downloads\\sistema\\sistema_tcc\\sistematcc\\sistematcc\\cadastrafuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8A844156-8744-48B4-BE7D-4FAE2B50E84D}|SistemaTCC\\SistemaTCC.csproj|solutionrelative:sistematcc\\cadastrafuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8A844156-8744-48B4-BE7D-4FAE2B50E84D}|SistemaTCC\\SistemaTCC.csproj|C:\\Users\\Pichau\\Downloads\\Sistema\\Sistema_Tcc\\SistemaTCC\\sistematcc\\consultacompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8A844156-8744-48B4-BE7D-4FAE2B50E84D}|SistemaTCC\\SistemaTCC.csproj|solutionrelative:sistematcc\\consultacompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A844156-8744-48B4-BE7D-4FAE2B50E84D}|SistemaTCC\\SistemaTCC.csproj|C:\\Users\\Pichau\\Downloads\\Sistema\\Sistema_Tcc\\SistemaTCC\\sistematcc\\cadastrafuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8A844156-8744-48B4-BE7D-4FAE2B50E84D}|SistemaTCC\\SistemaTCC.csproj|solutionrelative:sistematcc\\cadastrafuncionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8A844156-8744-48B4-BE7D-4FAE2B50E84D}|SistemaTCC\\SistemaTCC.csproj|C:\\Users\\Pichau\\Downloads\\Sistema\\Sistema_Tcc\\SistemaTCC\\sistematcc\\cadastraprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8A844156-8744-48B4-BE7D-4FAE2B50E84D}|SistemaTCC\\SistemaTCC.csproj|solutionrelative:sistematcc\\cadastraprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A844156-8744-48B4-BE7D-4FAE2B50E84D}|SistemaTCC\\SistemaTCC.csproj|C:\\Users\\Pichau\\Downloads\\Sistema\\Sistema_Tcc\\SistemaTCC\\sistematcc\\cadastraclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8A844156-8744-48B4-BE7D-4FAE2B50E84D}|SistemaTCC\\SistemaTCC.csproj|solutionrelative:sistematcc\\cadastraclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A844156-8744-48B4-BE7D-4FAE2B50E84D}|SistemaTCC\\SistemaTCC.csproj|C:\\Users\\Pichau\\Downloads\\Sistema\\Sistema_Tcc\\SistemaTCC\\sistematcc\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8A844156-8744-48B4-BE7D-4FAE2B50E84D}|SistemaTCC\\SistemaTCC.csproj|solutionrelative:sistematcc\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A844156-8744-48B4-BE7D-4FAE2B50E84D}|SistemaTCC\\SistemaTCC.csproj|C:\\Users\\Pichau\\Downloads\\Sistema\\Sistema_Tcc\\SistemaTCC\\sistematcc\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A844156-8744-48B4-BE7D-4FAE2B50E84D}|SistemaTCC\\SistemaTCC.csproj|solutionrelative:sistematcc\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A844156-8744-48B4-BE7D-4FAE2B50E84D}|SistemaTCC\\SistemaTCC.csproj|C:\\Users\\Pichau\\Downloads\\Sistema\\Sistema_Tcc\\SistemaTCC\\sistematcc\\cadastraclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A844156-8744-48B4-BE7D-4FAE2B50E84D}|SistemaTCC\\SistemaTCC.csproj|solutionrelative:sistematcc\\cadastraclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A844156-8744-48B4-BE7D-4FAE2B50E84D}|SistemaTCC\\SistemaTCC.csproj|C:\\Users\\Pichau\\Downloads\\Sistema\\Sistema_Tcc\\SistemaTCC\\sistematcc\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8A844156-8744-48B4-BE7D-4FAE2B50E84D}|SistemaTCC\\SistemaTCC.csproj|solutionrelative:sistematcc\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A844156-8744-48B4-BE7D-4FAE2B50E84D}|SistemaTCC\\SistemaTCC.csproj|C:\\Users\\Pichau\\Downloads\\Sistema\\Sistema_Tcc\\SistemaTCC\\sistematcc\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A844156-8744-48B4-BE7D-4FAE2B50E84D}|SistemaTCC\\SistemaTCC.csproj|solutionrelative:sistematcc\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,11 +46,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
+              "Title": "CadastraClientes.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Downloads\\Sistema\\Sistema_Tcc\\SistemaTCC\\SistemaTCC\\CadastraClientes.cs",
+              "RelativeDocumentMoniker": "SistemaTCC\\CadastraClientes.cs",
+              "ToolTip": "C:\\Users\\Pichau\\Downloads\\Sistema\\Sistema_Tcc\\SistemaTCC\\SistemaTCC\\CadastraClientes.cs",
+              "RelativeToolTip": "SistemaTCC\\CadastraClientes.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAiwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T16:42:33.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Downloads\\Sistema\\Sistema_Tcc\\SistemaTCC\\SistemaTCC\\Menu.cs",
+              "RelativeDocumentMoniker": "SistemaTCC\\Menu.cs",
+              "ToolTip": "C:\\Users\\Pichau\\Downloads\\Sistema\\Sistema_Tcc\\SistemaTCC\\SistemaTCC\\Menu.cs",
+              "RelativeToolTip": "SistemaTCC\\Menu.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAiwD8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T16:10:43.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\Downloads\\Sistema\\Sistema_Tcc\\SistemaTCC\\SistemaTCC\\Login.cs",
+              "RelativeDocumentMoniker": "SistemaTCC\\Login.cs",
+              "ToolTip": "C:\\Users\\Pichau\\Downloads\\Sistema\\Sistema_Tcc\\SistemaTCC\\SistemaTCC\\Login.cs",
+              "RelativeToolTip": "SistemaTCC\\Login.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAACAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T17:32:31.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "CadastraClientes.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Pichau\\Downloads\\Sistema\\Sistema_Tcc\\SistemaTCC\\SistemaTCC\\CadastraClientes.cs",
               "RelativeDocumentMoniker": "SistemaTCC\\CadastraClientes.cs",
@@ -50,7 +101,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "CadastraProdutos.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Pichau\\Downloads\\Sistema\\Sistema_Tcc\\SistemaTCC\\SistemaTCC\\CadastraProdutos.cs",
               "RelativeDocumentMoniker": "SistemaTCC\\CadastraProdutos.cs",
@@ -62,7 +113,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "CadastraFuncionario.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Pichau\\Downloads\\Sistema\\Sistema_Tcc\\SistemaTCC\\SistemaTCC\\CadastraFuncionario.cs",
               "RelativeDocumentMoniker": "SistemaTCC\\CadastraFuncionario.cs",
@@ -74,7 +125,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "ConsultaCompra.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Pichau\\Downloads\\Sistema\\Sistema_Tcc\\SistemaTCC\\SistemaTCC\\ConsultaCompra.cs",
               "RelativeDocumentMoniker": "SistemaTCC\\ConsultaCompra.cs",
@@ -86,7 +137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Menu.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Pichau\\Downloads\\Sistema\\Sistema_Tcc\\SistemaTCC\\SistemaTCC\\Menu.cs",
               "RelativeDocumentMoniker": "SistemaTCC\\Menu.cs",
@@ -98,7 +149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Login.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Pichau\\Downloads\\Sistema\\Sistema_Tcc\\SistemaTCC\\SistemaTCC\\Login.cs",
               "RelativeDocumentMoniker": "SistemaTCC\\Login.cs",

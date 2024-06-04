@@ -293,6 +293,16 @@ namespace SistemaTCC.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap saida {
+            get {
+                object obj = ResourceManager.GetObject("saida", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Solid_black {
             get {
                 object obj = ResourceManager.GetObject("Solid_black", resourceCulture);

@@ -37,9 +37,10 @@ namespace SistemaTCC
             this.guna2Button8 = new Guna.UI2.WinForms.Guna2Button();
             this.guna2Panel1 = new Guna.UI2.WinForms.Guna2Panel();
             this.guna2Panel2 = new Guna.UI2.WinForms.Guna2Panel();
-            this.panel2 = new System.Windows.Forms.Panel();
-            this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
+            this.label1 = new System.Windows.Forms.Label();
+            this.panel2 = new System.Windows.Forms.Panel();
+            this.guna2PictureBox6 = new Guna.UI2.WinForms.Guna2PictureBox();
             this.guna2CirclePictureBox1 = new Guna.UI2.WinForms.Guna2CirclePictureBox();
             this.guna2PictureBox5 = new Guna.UI2.WinForms.Guna2PictureBox();
             this.guna2PictureBox4 = new Guna.UI2.WinForms.Guna2PictureBox();
@@ -50,6 +51,7 @@ namespace SistemaTCC
             this.guna2Panel1.SuspendLayout();
             this.guna2Panel2.SuspendLayout();
             this.panel2.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox6)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.guna2CirclePictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox5)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox4)).BeginInit();
@@ -158,6 +160,7 @@ namespace SistemaTCC
             // guna2Panel1
             // 
             this.guna2Panel1.BackColor = System.Drawing.Color.White;
+            this.guna2Panel1.Controls.Add(this.guna2PictureBox6);
             this.guna2Panel1.Controls.Add(this.guna2Panel2);
             this.guna2Panel1.Location = new System.Drawing.Point(246, 35);
             this.guna2Panel1.Name = "guna2Panel1";
@@ -178,15 +181,16 @@ namespace SistemaTCC
             this.guna2Panel2.Size = new System.Drawing.Size(445, 403);
             this.guna2Panel2.TabIndex = 0;
             // 
-            // panel2
+            // label2
             // 
-            this.panel2.BackColor = System.Drawing.Color.White;
-            this.panel2.Controls.Add(this.guna2CirclePictureBox1);
-            this.panel2.ForeColor = System.Drawing.SystemColors.ControlLight;
-            this.panel2.Location = new System.Drawing.Point(32, 42);
-            this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(378, 191);
-            this.panel2.TabIndex = 0;
+            this.label2.AutoSize = true;
+            this.label2.Font = new System.Drawing.Font("Arial Black", 14.25F, System.Drawing.FontStyle.Bold);
+            this.label2.ForeColor = System.Drawing.Color.Transparent;
+            this.label2.Location = new System.Drawing.Point(96, 311);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(260, 27);
+            this.label2.TabIndex = 2;
+            this.label2.Text = "Bom cadastro/consulta!";
             // 
             // label1
             // 
@@ -200,16 +204,27 @@ namespace SistemaTCC
             this.label1.Text = "Bem Vindo ao Sistema!";
             this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
-            // label2
+            // panel2
             // 
-            this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Arial Black", 14.25F, System.Drawing.FontStyle.Bold);
-            this.label2.ForeColor = System.Drawing.Color.Transparent;
-            this.label2.Location = new System.Drawing.Point(96, 311);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(260, 27);
-            this.label2.TabIndex = 2;
-            this.label2.Text = "Bom cadastro/consulta!";
+            this.panel2.BackColor = System.Drawing.Color.White;
+            this.panel2.Controls.Add(this.guna2CirclePictureBox1);
+            this.panel2.ForeColor = System.Drawing.SystemColors.ControlLight;
+            this.panel2.Location = new System.Drawing.Point(32, 42);
+            this.panel2.Name = "panel2";
+            this.panel2.Size = new System.Drawing.Size(378, 191);
+            this.panel2.TabIndex = 0;
+            // 
+            // guna2PictureBox6
+            // 
+            this.guna2PictureBox6.Image = global::SistemaTCC.Properties.Resources.saida;
+            this.guna2PictureBox6.ImageRotate = 0F;
+            this.guna2PictureBox6.Location = new System.Drawing.Point(555, 14);
+            this.guna2PictureBox6.Name = "guna2PictureBox6";
+            this.guna2PictureBox6.Size = new System.Drawing.Size(46, 36);
+            this.guna2PictureBox6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.guna2PictureBox6.TabIndex = 1;
+            this.guna2PictureBox6.TabStop = false;
+            this.guna2PictureBox6.Click += new System.EventHandler(this.guna2PictureBox6_Click);
             // 
             // guna2CirclePictureBox1
             // 
@@ -306,6 +321,7 @@ namespace SistemaTCC
             this.guna2Panel2.ResumeLayout(false);
             this.guna2Panel2.PerformLayout();
             this.panel2.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox6)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.guna2CirclePictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox5)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.guna2PictureBox4)).EndInit();
@@ -334,5 +350,6 @@ namespace SistemaTCC
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label1;
         private Guna.UI2.WinForms.Guna2CirclePictureBox guna2CirclePictureBox1;
+        private Guna.UI2.WinForms.Guna2PictureBox guna2PictureBox6;
     }
 }

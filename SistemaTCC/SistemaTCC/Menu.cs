@@ -58,5 +58,10 @@ namespace SistemaTCC
         {
 
         }
+
+        private void guna2PictureBox6_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }
